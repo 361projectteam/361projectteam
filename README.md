@@ -4,36 +4,26 @@ Welcome to the website for our CS361 project, Stock Overflow! Stock Overflow is 
 
 ### Virtual Stock Market
 
+![Image](https://i.imgur.com/YOeR86m.png)
+
 ### Instructional Videos
+
+![Image](https://i.imgur.com/r1oZ63c.png)
 
 ### Tips from Experts
 
+![Image](https://i.imgur.com/2Zk81HJ.png)
+
 ### An Easy to Use Connection to the Real Stock Market
+
+![Image](https://i.imgur.com/o3WzxWC.png)
 
 ### Earn Real Money with Bitcoin
 
-### Markdown
+![Image](https://i.imgur.com/klV0EIO.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
